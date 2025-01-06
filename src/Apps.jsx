@@ -1,6 +1,8 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { Link } from "react-router-dom";
+import './style.css';
+
 
 import Createuser from './Createuser'
 import Updateuser from './Updateuser'
