@@ -1,0 +1,30 @@
+h1{
+  color:black;
+  background-color: darkgray;
+  border-radius: 20px;
+  padding:6px;
+  display:inline-block;
+  margin-right:20%;
+}
+h1:hover{
+  color:blueviolet;
+}
+button{
+  display: block;
+  margin-bottom: 16px;
+}
+button:active{
+  background-color: red;
+  box-shadow: 2px 2px 2px greenyellow;
+  }
+p{
+  text-align: center;
+  font-size: large;
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-decoration: overline;
+}
+p:hover{
+  color:red;
+}
+
